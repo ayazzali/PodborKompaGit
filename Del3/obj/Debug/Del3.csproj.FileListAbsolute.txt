@@ -1,0 +1,193 @@
+C:\Users\vc_05_208\Desktop\Del3\Del3\bin\Debug\Del3.exe.config
+C:\Users\vc_05_208\Desktop\Del3\Del3\bin\Debug\Del3.exe
+C:\Users\vc_05_208\Desktop\Del3\Del3\bin\Debug\Del3.pdb
+C:\Users\vc_05_208\Desktop\Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+C:\Users\vc_05_208\Desktop\Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+C:\Users\vc_05_208\Desktop\Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+C:\Users\vc_05_208\Desktop\Del3\Del3\obj\Debug\Del3.exe
+C:\Users\vc_05_208\Desktop\Del3\Del3\obj\Debug\Del3.pdb
+C:\Users\vc_05_208\Desktop\Del3\Del3\bin\Debug\base.accdb
+C:\Users\vc_05_208\Desktop\Del3\Del3\obj\Debug\Del3.Form1.resources
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\bin\Debug\Del3.exe.config
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\obj\Debug\Del3.exe
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\obj\Debug\Del3.pdb
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\obj\Debug\Del3.Form1.resources
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\bin\Debug\base.accdb
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\bin\Debug\Del3.exe
+C:\Users\Аяз\Desktop\адаптеры_V1_Del3\Del3\bin\Debug\Del3.pdb
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\bin\Debug\Del3.exe.config
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\obj\Debug\Del3.exe
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\obj\Debug\Del3.pdb
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\bin\Debug\base.accdb
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\bin\Debug\Del3.exe
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\bin\Debug\Del3.pdb
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\obj\Debug\Del3.Form1.resources
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+C:\Users\Аяз\Desktop\адаптеры_V2-easyDB_Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\@адаптеры_V3-(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\@адаптеры_V4-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\Del3.exe.config
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.exe
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.pdb
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\base.accdb
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\Del3.exe
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\bin\Debug\Del3.pdb
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.Form1.resources
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+C:\Users\vc_05_208\Desktop\@афTBoxы_V4.1-update_(base2_1)+видеокартА__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\bin\Debug\base.accdb
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+C:\Users\vc_05_208\Desktop\афTBoxы_V5Filter(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\афTBoxы_V5Filter(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\bin\Debug\base.accdb
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+C:\Users\vc_05_208\Desktop\афTBoxы_V6Filter(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3 - копия\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\афTBoxы_V7FilterInschool(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\афTBoxы_V8FilterInhome(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\афTBoxы_V9FilterInhome2(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9FilterInhome2Net4(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V9.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1FilterInhome2Net35(base2_1)__Del3\Del3\obj\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\bin\Debug\base.accdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\bin\Debug\Del3.exe.config
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\bin\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\bin\Debug\Del3.pdb
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.csprojResolveAssemblyReference.cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.Form1.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.Properties.Resources.resources
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.csproj.GenerateResource.Cache
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.exe
+F:\VS2012Projects\PodborKompa\@афTBoxы_V10.1-12FilterInhome2Net35(base2_1)__Del3 - копия\Del3\obj\Debug\Del3.pdb
